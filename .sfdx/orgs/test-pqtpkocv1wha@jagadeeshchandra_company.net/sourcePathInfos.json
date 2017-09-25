@@ -664,10 +664,10 @@
             "sourcePath": "/Users/jagadeeshchandra/geolocation1/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10906,
-            "modifiedTime": 1506373078000,
-            "changeTime": 1506373078000,
-            "contentHash": "72d5bf2f6659220a048cb434057f063c4f465988"
+            "size": 11044,
+            "modifiedTime": 1506373832000,
+            "changeTime": 1506373832000,
+            "contentHash": "30eb1a818aadd764b5aa0b24561c5ccc75d8fca5"
         }
     ],
     [
@@ -677,10 +677,10 @@
             "sourcePath": "/Users/jagadeeshchandra/geolocation1/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10894,
-            "modifiedTime": 1506373078000,
-            "changeTime": 1506373078000,
-            "contentHash": "90c98979e6611c5bbaacc610f75e48b25cc394a1"
+            "size": 11032,
+            "modifiedTime": 1506373832000,
+            "changeTime": 1506373832000,
+            "contentHash": "ab334e891db3aa35198bc45fde041c62f28509fa"
         }
     ],
     [
@@ -690,10 +690,10 @@
             "sourcePath": "/Users/jagadeeshchandra/geolocation1/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10910,
-            "modifiedTime": 1506373078000,
-            "changeTime": 1506373078000,
-            "contentHash": "973f4ea237f5ed7b2b999ad0eab7e5306d92c988"
+            "size": 11048,
+            "modifiedTime": 1506373832000,
+            "changeTime": 1506373832000,
+            "contentHash": "f3782f755bb56ede4e499cf94da7e0a4ca196894"
         }
     ],
     [
@@ -703,10 +703,10 @@
             "sourcePath": "/Users/jagadeeshchandra/geolocation1/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10894,
-            "modifiedTime": 1506373078000,
-            "changeTime": 1506373078000,
-            "contentHash": "98583742c2c34ee7a50072a32b8f5afad2c70e5b"
+            "size": 11032,
+            "modifiedTime": 1506373832000,
+            "changeTime": 1506373832000,
+            "contentHash": "a86e5ea1dddac419a0e01f84c0e2ef41ed2ca2e5"
         }
     ],
     [
@@ -716,10 +716,10 @@
             "sourcePath": "/Users/jagadeeshchandra/geolocation1/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10297,
-            "modifiedTime": 1506373078000,
-            "changeTime": 1506373078000,
-            "contentHash": "25c5e872c288d956970bfbb60cc0000b79e911e3"
+            "size": 10455,
+            "modifiedTime": 1506373832000,
+            "changeTime": 1506373832000,
+            "contentHash": "0283854b9475ecc72906fc72268c27041b188735"
         }
     ],
     [
@@ -729,10 +729,10 @@
             "sourcePath": "/Users/jagadeeshchandra/geolocation1/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10293,
-            "modifiedTime": 1506373078000,
-            "changeTime": 1506373078000,
-            "contentHash": "12590e3575909b999014f8706b4a0a6d6678404d"
+            "size": 10451,
+            "modifiedTime": 1506373832000,
+            "changeTime": 1506373832000,
+            "contentHash": "16153e347c7e10103c87c48736a3b56da5e2bcee"
         }
     ],
     [
@@ -742,10 +742,10 @@
             "sourcePath": "/Users/jagadeeshchandra/geolocation1/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 22750,
-            "modifiedTime": 1506373078000,
-            "changeTime": 1506373078000,
-            "contentHash": "ff47d13a978de448502b52a67da4ec76dbf4b105"
+            "size": 22908,
+            "modifiedTime": 1506373832000,
+            "changeTime": 1506373832000,
+            "contentHash": "a368ef6a8425e6fdf0142a080fe74a8949965c11"
         }
     ],
     [
@@ -755,23 +755,23 @@
             "sourcePath": "/Users/jagadeeshchandra/geolocation1/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10633,
-            "modifiedTime": 1506373078000,
-            "changeTime": 1506373078000,
-            "contentHash": "ba103a33cd69ac9a43caa1f8d3656f72d5b39ff9"
+            "size": 10791,
+            "modifiedTime": 1506373832000,
+            "changeTime": 1506373832000,
+            "contentHash": "e99026ffb515fb20a49329d967ba2c0263f04618"
         }
     ],
     [
         "/Users/jagadeeshchandra/geolocation1/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jagadeeshchandra/geolocation1/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6450,
             "modifiedTime": 1506373078000,
             "changeTime": 1506373078000,
-            "contentHash": "135b054b83a5bbc9433c5285d5032147edebb9f8"
+            "contentHash": "135b054b83a5bbc9433c5285d5032147edebb9f8",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -807,10 +807,10 @@
             "sourcePath": "/Users/jagadeeshchandra/geolocation1/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 1394,
-            "modifiedTime": 1506373078000,
-            "changeTime": 1506373078000,
-            "contentHash": "0123cc24b7a3347eeea1bd4ede6d501514b161e1"
+            "size": 1428,
+            "modifiedTime": 1506373832000,
+            "changeTime": 1506373832000,
+            "contentHash": "b64561653d82b2978420c0e3ab6358004841b2a3"
         }
     ],
     [
@@ -889,6 +889,19 @@
             "modifiedTime": 1506373078000,
             "changeTime": 1506373078000,
             "contentHash": "f7fd913ea4a4f06cdfdda98c828937c6b576d055"
+        }
+    ],
+    [
+        "/Users/jagadeeshchandra/geolocation1/force-app/main/default/objects/Account/fields/username__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jagadeeshchandra/geolocation1/force-app/main/default/objects/Account/fields/username__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 320,
+            "modifiedTime": 1506373832000,
+            "changeTime": 1506373832000,
+            "contentHash": "25e4452772aa147e5993509c5a18749d17a387f3"
         }
     ]
 ]
